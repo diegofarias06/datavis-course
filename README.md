@@ -10,3 +10,12 @@
 [index08.html](basic/index08.html)<br>
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
+
+## Aula 10
+https://observablehq.com/@diegofarias06/introducao-ao-d3-com-observable
+
+## Aula 11
+https://observablehq.com/@diegofarias06/introducao-ao-d3-parte-2-escalas-e-eixos
+
+## Aula 12
+https://observablehq.com/@diegofarias06/introducao-ao-d3-parte-3-updates-e-transicoes
