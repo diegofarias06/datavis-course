@@ -1,0 +1,14 @@
+{
+  "name": "@diegofarias06/d3-com-crossfilter-e-dc-js/3",
+  "main": "d/cb1217a552bbdde2.js",
+  "version": "235.0.0",
+  "homepage": "https://observablehq.com/@diegofarias06/d3-com-crossfilter-e-dc-js/3",
+  "author": {
+    "name": "diegofarias06",
+    "url": "https://observablehq.com/@diegofarias06"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

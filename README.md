@@ -19,3 +19,11 @@ https://observablehq.com/@diegofarias06/introducao-ao-d3-parte-2-escalas-e-eixos
 
 ## Aula 12
 https://observablehq.com/@diegofarias06/introducao-ao-d3-parte-3-updates-e-transicoes
+
+##d3-com-crossfilter-e-dc-js
+[d3-com-crossfilter-e-dc-js](d3-com-crossfilter-e-dc-js_3/index.html)<br>
+https://observablehq.com/@diegofarias06/d3-com-crossfilter-e-dc-js/3
+
+##d3-com-crossfilter-e-dc-js-parte-2
+[d3-com-crossfilter-e-dc-js-parte-2](d3-com-crossfilter-e-dc-js-parte-2/index.html)<br>
+https://observablehq.com/@diegofarias06/d3-com-crossfilter-e-dc-js-parte-2
