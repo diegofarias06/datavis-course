@@ -32,4 +32,4 @@ https://observablehq.com/@diegofarias06/d3-com-crossfilter-e-dc-js-parte-2
 [d3_leaflet](d3_leaflet/index.html)<br>
 
 ## Crimes em Chicago
-[d3_leaflet](d3_leaflet2/crimes-em-chicago/index.html)<br>
+[crimes](d3_leaflet2/crimes-em-chicago/index.html)<br>
