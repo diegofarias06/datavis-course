@@ -1,0 +1,14 @@
+{
+  "name": "@diegofarias06/crimes-em-chicago",
+  "main": "d/0f86767ade656072.js",
+  "version": "314.0.0",
+  "homepage": "https://observablehq.com/@diegofarias06/crimes-em-chicago",
+  "author": {
+    "name": "diegofarias06",
+    "url": "https://observablehq.com/@diegofarias06"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
