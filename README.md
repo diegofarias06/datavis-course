@@ -27,3 +27,6 @@ https://observablehq.com/@diegofarias06/d3-com-crossfilter-e-dc-js/3
 ## d3-com-crossfilter-e-dc-js-parte-2
 [d3-com-crossfilter-e-dc-js-parte-2](d3-com-crossfilter-e-dc-js-parte-2/index.html)<br>
 https://observablehq.com/@diegofarias06/d3-com-crossfilter-e-dc-js-parte-2
+
+## d3_leaflet
+[d3_leaflet](d3_leaflet/index.html)<br>
