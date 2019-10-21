@@ -33,3 +33,9 @@ https://observablehq.com/@diegofarias06/d3-com-crossfilter-e-dc-js-parte-2
 
 ## Crimes em Chicago
 [crimes](d3_leaflet2/crimes-em-chicago/index.html)<br>
+
+## Homicidios em Fortaleza
+[homicidios](homicidios_fortaleza/index.html)
+
+## Desemprego EUA
+[desemprego](desemprego_eua/index.html)

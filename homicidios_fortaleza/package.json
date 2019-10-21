@@ -1,0 +1,14 @@
+{
+  "name": "@diegofarias06/homicidios-em-fortaleza-em-2012",
+  "main": "d/4d7e85700a9105a3.js",
+  "version": "90.0.0",
+  "homepage": "https://observablehq.com/@diegofarias06/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "diegofarias06",
+    "url": "https://observablehq.com/@diegofarias06"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
